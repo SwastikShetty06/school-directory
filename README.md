@@ -11,8 +11,8 @@ It consists of two main pages:
 
 ## Final Project URLs
 
-- **GitHub Repo**: [Link to your GitHub repo]  
-- **Hosted Project**: [Link to your Vercel/Netlify deployment]  
+- **GitHub Repo**: (https://github.com/SwastikShetty06/school-directory)
+- **Hosted Project**: (https://schooldirectoryswastik.netlify.app)
 
 ---
 
